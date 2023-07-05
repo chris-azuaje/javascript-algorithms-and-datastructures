@@ -1,1 +1,3 @@
-# This repo is a collection of the challenges from [Free Code Camps](https://www.freecodecamp.org/learn) JavaScript Algorithms and Data Structures certification.
+# What is this?
+
+## This is a collection of the challenges from [Free Code Camp's](https://www.freecodecamp.org/learn) JavaScript Algorithms and Data Structures certification.
